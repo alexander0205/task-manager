@@ -1,0 +1,10 @@
+export enum NAVIGATION_SCREENS {
+    BOARD = "BOARD",
+    ADD_TASK = "ADD_TASK",
+}
+
+export enum NAVIGATION_BOARD_TABS {
+    ALL = "ALL",
+    COMPLETED = "COMPLETED",
+    UNCOMPLETED = "UNCOMPLETED",
+}
